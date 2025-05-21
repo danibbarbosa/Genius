@@ -1,6 +1,6 @@
 import flet as ft
-import random
-import asyncio
+import random #aleatoriedade das cores
+import asyncio #temporizador
 
 COLORS = ["red", "green", "blue", "yellow"]
 
